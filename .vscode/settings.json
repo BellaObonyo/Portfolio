@@ -1,0 +1,10 @@
+{
+    "workbench.editor.showTabs": true,
+    "workbench.colorCustomizations": {
+    
+    },
+    "workbench.editor.autoLockGroups": {
+        "imagePreview.previewEditor": true
+    },
+    "workbench.editor.highlightModifiedTabs": true,
+}
